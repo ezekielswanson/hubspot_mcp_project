@@ -37,5 +37,7 @@ Sample source system field definitions showing the structure needed for migratio
 
 ## Requirements
 
+- HubSpot MCP package: https://www.npmjs.com/package/@hubspot/mcp-server
 - HubSpot portal access with custom schema read/write permissions
 - HubSpot MCP integration tools configured
+  
