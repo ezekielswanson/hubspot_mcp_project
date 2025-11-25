@@ -1,0 +1,52 @@
+{
+  "hv_departments": [
+    {
+      "name": "HV_Sugar Land",
+      "departmentid": "21"
+    },
+    {
+      "name": "HV_Woodlands",
+      "departmentid": "680"
+    },
+    {
+      "name": "HV_Clear Lake",
+      "departmentid": "89"
+    },
+    {
+      "name": "HV_Round Rock",
+      "departmentid": "92"
+    },
+    {
+      "name": "HV_Lake Jackson",
+      "departmentid": "602"
+    },
+    {
+      "name": "HV_Stone Oak",
+      "departmentid": "102"
+    },
+    {
+      "name": "HV_Metro SA",
+      "departmentid": "124"
+    },
+    {
+      "name": "HV_Katy",
+      "departmentid": "365"
+    },
+    {
+      "name": "HV_Katy_Kingsland",
+      "departmentid": "771"
+    },
+    {
+      "name": "HV__Sugar Land_Soldiers Fld",
+      "departmentid": "772"
+    },
+    {
+      "name": "HV_Bay City",
+      "departmentid": "99"
+    },
+    {
+      "name": "HV_Leander",
+      "departmentid": "749"
+    }
+  ]
+}
